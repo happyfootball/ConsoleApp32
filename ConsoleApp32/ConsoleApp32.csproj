@@ -6,13 +6,95 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="excutejiecheng.cs" />
+    <Compile Remove="ExolicitConversion.cs" />
+    <Compile Remove="NumberManipulator.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="TestArray.cs" />
     <Compile Remove="TestAttribute1.cs" />
+    <Compile Remove="TestAttribute2.cs" />
+    <Compile Remove="TestAttribute3.cs" />
+    <Compile Remove="TestClass.cs" />
+    <Compile Remove="TestConditional.cs" />
+    <Compile Remove="TestContructorFunction.cs" />
+    <Compile Remove="TestCycle.cs" />
+    <Compile Remove="TestDestructor.cs" />
+    <Compile Remove="TestEnum.cs" />
+    <Compile Remove="TestError2.cs" />
+    <Compile Remove="TestExtends1.cs" />
+    <Compile Remove="TestExtends2.cs" />
+    <Compile Remove="TestExtends3.cs" />
+    <Compile Remove="Testfactorial.cs" />
+    <Compile Remove="TestInterface.cs" />
+    <Compile Remove="TestInterface1.cs" />
+    <Compile Remove="TestInternal.cs" />
+    <Compile Remove="TestIO1.cs" />
+    <Compile Remove="TestMemberFunction.cs" />
+    <Compile Remove="TestNamespace.cs" />
+    <Compile Remove="TestNullable.cs" />
+    <Compile Remove="TestOperator.cs" />
+    <Compile Remove="TestOperator1.cs" />
+    <Compile Remove="TestOperator2.cs" />
+    <Compile Remove="TestOperator3.cs" />
+    <Compile Remove="TestPolymorphism1.cs" />
+    <Compile Remove="TestPolymorphism2.cs" />
+    <Compile Remove="TestPolymorphism3.cs" />
+    <Compile Remove="TestPolymorphism4.cs" />
+    <Compile Remove="TestPreprocessinginstruction1.cs" />
+    <Compile Remove="TestReflection1.cs" />
+    <Compile Remove="TestRegex.cs" />
+    <Compile Remove="TestRegularExpressiont1.cs" />
+    <Compile Remove="TestStreamWriter.cs" />
+    <Compile Remove="TestString.cs" />
+    <Compile Remove="TestStruct.cs" />
+    <Compile Remove="VariableDefinition.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Class1.cs" />
+    <None Include="excutejiecheng.cs" />
+    <None Include="ExolicitConversion.cs" />
+    <None Include="NumberManipulator.cs" />
     <None Include="Program.cs" />
+    <None Include="TestArray.cs" />
     <None Include="TestAttribute1.cs" />
+    <None Include="TestAttribute2.cs" />
+    <None Include="TestAttribute3.cs" />
+    <None Include="TestClass.cs" />
+    <None Include="TestConditional.cs" />
+    <None Include="TestContructorFunction.cs" />
+    <None Include="TestCycle.cs" />
+    <None Include="TestDestructor.cs" />
+    <None Include="TestEnum.cs" />
+    <None Include="TestError2.cs" />
+    <None Include="TestExtends1.cs" />
+    <None Include="TestExtends2.cs" />
+    <None Include="TestExtends3.cs" />
+    <None Include="Testfactorial.cs" />
+    <None Include="TestInterface.cs" />
+    <None Include="TestInterface1.cs" />
+    <None Include="TestInternal.cs" />
+    <None Include="TestIO1.cs" />
+    <None Include="TestMemberFunction.cs" />
+    <None Include="TestNamespace.cs" />
+    <None Include="TestNullable.cs" />
+    <None Include="TestOperator.cs" />
+    <None Include="TestOperator1.cs" />
+    <None Include="TestOperator2.cs" />
+    <None Include="TestOperator3.cs" />
+    <None Include="TestPolymorphism1.cs" />
+    <None Include="TestPolymorphism2.cs" />
+    <None Include="TestPolymorphism3.cs" />
+    <None Include="TestPolymorphism4.cs" />
+    <None Include="TestPreprocessinginstruction1.cs" />
+    <None Include="TestReflection1.cs" />
+    <None Include="TestRegex.cs" />
+    <None Include="TestRegularExpressiont1.cs" />
+    <None Include="TestStreamWriter.cs" />
+    <None Include="TestString.cs" />
+    <None Include="TestStruct.cs" />
+    <None Include="VariableDefinition.cs" />
   </ItemGroup>
 
 </Project>
