@@ -43,6 +43,7 @@
     <Compile Remove="TestPolymorphism4.cs" />
     <Compile Remove="TestPreprocessinginstruction1.cs" />
     <Compile Remove="TestProperty1.cs" />
+    <Compile Remove="TestProperty2.cs" />
     <Compile Remove="TestReflection1.cs" />
     <Compile Remove="TestRegex.cs" />
     <Compile Remove="TestRegularExpressiont1.cs" />
@@ -90,6 +91,7 @@
     <None Include="TestPolymorphism4.cs" />
     <None Include="TestPreprocessinginstruction1.cs" />
     <None Include="TestProperty1.cs" />
+    <None Include="TestProperty2.cs" />
     <None Include="TestReflection1.cs" />
     <None Include="TestRegex.cs" />
     <None Include="TestRegularExpressiont1.cs" />
