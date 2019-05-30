@@ -4,12 +4,15 @@ using System.Text;
 
 namespace ConsoleApp32
 {
-    class Program
+    class TestCycle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Size of int: {0}", sizeof(int));
-            Console.ReadLine();
+            for (; ; )
+            {
+                Console.WriteLine("Hey! I am Trapped");
+            }
+
         }
     }
 }
