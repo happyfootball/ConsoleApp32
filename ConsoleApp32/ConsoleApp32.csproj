@@ -18,6 +18,7 @@
     <Compile Remove="TestClass.cs" />
     <Compile Remove="TestCollection_ArrayList.cs" />
     <Compile Remove="TestCollection_hashtable.cs" />
+    <Compile Remove="TestCollection_Queue.cs" />
     <Compile Remove="TestCollection_SortedList.cs" />
     <Compile Remove="TestCollection_Stack.cs" />
     <Compile Remove="TestConditional.cs" />
@@ -81,6 +82,7 @@
     <None Include="TestClass.cs" />
     <None Include="TestCollection_ArrayList.cs" />
     <None Include="TestCollection_hashtable.cs" />
+    <None Include="TestCollection_Queue.cs" />
     <None Include="TestCollection_SortedList.cs" />
     <None Include="TestCollection_Stack.cs" />
     <None Include="TestConditional.cs" />
