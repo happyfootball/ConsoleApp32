@@ -19,6 +19,8 @@
     <Compile Remove="TestConditional.cs" />
     <Compile Remove="TestContructorFunction.cs" />
     <Compile Remove="TestCycle.cs" />
+    <Compile Remove="TestDelegate.cs" />
+    <Compile Remove="TestDelegate1.cs" />
     <Compile Remove="TestDestructor.cs" />
     <Compile Remove="TestEnum.cs" />
     <Compile Remove="TestError2.cs" />
@@ -72,6 +74,8 @@
     <None Include="TestConditional.cs" />
     <None Include="TestContructorFunction.cs" />
     <None Include="TestCycle.cs" />
+    <None Include="TestDelegate.cs" />
+    <None Include="TestDelegate1.cs" />
     <None Include="TestDestructor.cs" />
     <None Include="TestEnum.cs" />
     <None Include="TestError2.cs" />
