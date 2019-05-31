@@ -16,6 +16,7 @@
     <Compile Remove="TestAttribute2.cs" />
     <Compile Remove="TestAttribute3.cs" />
     <Compile Remove="TestClass.cs" />
+    <Compile Remove="TestCollection_ArrayList.cs" />
     <Compile Remove="TestConditional.cs" />
     <Compile Remove="TestContructorFunction.cs" />
     <Compile Remove="TestCycle.cs" />
@@ -75,6 +76,7 @@
     <None Include="TestAttribute2.cs" />
     <None Include="TestAttribute3.cs" />
     <None Include="TestClass.cs" />
+    <None Include="TestCollection_ArrayList.cs" />
     <None Include="TestConditional.cs" />
     <None Include="TestContructorFunction.cs" />
     <None Include="TestCycle.cs" />
