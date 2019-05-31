@@ -19,6 +19,7 @@
     <Compile Remove="TestCollection_ArrayList.cs" />
     <Compile Remove="TestCollection_hashtable.cs" />
     <Compile Remove="TestCollection_SortedList.cs" />
+    <Compile Remove="TestCollection_Stack.cs" />
     <Compile Remove="TestConditional.cs" />
     <Compile Remove="TestContructorFunction.cs" />
     <Compile Remove="TestCycle.cs" />
@@ -81,6 +82,7 @@
     <None Include="TestCollection_ArrayList.cs" />
     <None Include="TestCollection_hashtable.cs" />
     <None Include="TestCollection_SortedList.cs" />
+    <None Include="TestCollection_Stack.cs" />
     <None Include="TestConditional.cs" />
     <None Include="TestContructorFunction.cs" />
     <None Include="TestCycle.cs" />
