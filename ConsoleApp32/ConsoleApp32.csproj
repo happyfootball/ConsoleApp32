@@ -26,6 +26,7 @@
     <Compile Remove="TestDestructor.cs" />
     <Compile Remove="TestEnum.cs" />
     <Compile Remove="TestError2.cs" />
+    <Compile Remove="TestEvent.cs" />
     <Compile Remove="TestExtends1.cs" />
     <Compile Remove="TestExtends2.cs" />
     <Compile Remove="TestExtends3.cs" />
@@ -83,6 +84,7 @@
     <None Include="TestDestructor.cs" />
     <None Include="TestEnum.cs" />
     <None Include="TestError2.cs" />
+    <None Include="TestEvent.cs" />
     <None Include="TestExtends1.cs" />
     <None Include="TestExtends2.cs" />
     <None Include="TestExtends3.cs" />
