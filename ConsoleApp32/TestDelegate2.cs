@@ -21,7 +21,7 @@ namespace ConsoleApp32
         //该方法打印到文件
         public static void WriteToFile(string s)
         {
-            fs = new FileStream("c:\\test.txt", FileMode.Append, FileAccess.Write);
+            fs = new FileStream("C:\\Users\\Sino\\Desktop\\test.txt", FileMode.Append, FileAccess.Write);
             sw = new StreamWriter(fs);
             sw.WriteLine(s);
             sw.Flush();
