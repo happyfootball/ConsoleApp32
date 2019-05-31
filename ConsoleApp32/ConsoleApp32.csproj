@@ -40,6 +40,7 @@
     <Compile Remove="Testfactorial.cs" />
     <Compile Remove="TestGeneric.cs" />
     <Compile Remove="TestGeneric1.cs" />
+    <Compile Remove="TestGeneric2.cs" />
     <Compile Remove="TestIndexer.cs" />
     <Compile Remove="TestIndexer1.cs" />
     <Compile Remove="TestIndexer2.cs" />
@@ -107,6 +108,7 @@
     <None Include="Testfactorial.cs" />
     <None Include="TestGeneric.cs" />
     <None Include="TestGeneric1.cs" />
+    <None Include="TestGeneric2.cs" />
     <None Include="TestIndexer.cs" />
     <None Include="TestIndexer1.cs" />
     <None Include="TestIndexer2.cs" />
