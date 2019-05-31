@@ -28,6 +28,7 @@
     <Compile Remove="Testfactorial.cs" />
     <Compile Remove="TestIndexer.cs" />
     <Compile Remove="TestIndexer1.cs" />
+    <Compile Remove="TestIndexer2.cs" />
     <Compile Remove="TestInterface.cs" />
     <Compile Remove="TestInterface1.cs" />
     <Compile Remove="TestInternal.cs" />
@@ -80,6 +81,7 @@
     <None Include="Testfactorial.cs" />
     <None Include="TestIndexer.cs" />
     <None Include="TestIndexer1.cs" />
+    <None Include="TestIndexer2.cs" />
     <None Include="TestInterface.cs" />
     <None Include="TestInterface1.cs" />
     <None Include="TestInternal.cs" />
