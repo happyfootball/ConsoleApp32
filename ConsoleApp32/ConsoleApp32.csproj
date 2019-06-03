@@ -74,6 +74,7 @@
     <Compile Remove="TestStruct.cs" />
     <Compile Remove="TestThread1.cs" />
     <Compile Remove="TestThread2.cs" />
+    <Compile Remove="TestThread3.cs" />
     <Compile Remove="VariableDefinition.cs" />
   </ItemGroup>
 
@@ -146,6 +147,7 @@
     <None Include="TestStruct.cs" />
     <None Include="TestThread1.cs" />
     <None Include="TestThread2.cs" />
+    <None Include="TestThread3.cs" />
     <None Include="VariableDefinition.cs" />
   </ItemGroup>
 
