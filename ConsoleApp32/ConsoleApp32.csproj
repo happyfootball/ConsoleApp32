@@ -72,6 +72,7 @@
     <Compile Remove="TestStreamWriter.cs" />
     <Compile Remove="TestString.cs" />
     <Compile Remove="TestStruct.cs" />
+    <Compile Remove="TestThread1.cs" />
     <Compile Remove="VariableDefinition.cs" />
   </ItemGroup>
 
@@ -142,6 +143,7 @@
     <None Include="TestStreamWriter.cs" />
     <None Include="TestString.cs" />
     <None Include="TestStruct.cs" />
+    <None Include="TestThread1.cs" />
     <None Include="VariableDefinition.cs" />
   </ItemGroup>
 
