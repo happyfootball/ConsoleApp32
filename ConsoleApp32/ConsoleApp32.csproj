@@ -68,6 +68,7 @@
     <Compile Remove="TestProperty2.cs" />
     <Compile Remove="TestProperty3.cs" />
     <Compile Remove="TestProperty4.cs" />
+    <Compile Remove="TestQuickArray.cs" />
     <Compile Remove="TestReflection1.cs" />
     <Compile Remove="TestRegex.cs" />
     <Compile Remove="TestRegularExpressiont1.cs" />
@@ -143,6 +144,7 @@
     <None Include="TestProperty2.cs" />
     <None Include="TestProperty3.cs" />
     <None Include="TestProperty4.cs" />
+    <None Include="TestQuickArray.cs" />
     <None Include="TestReflection1.cs" />
     <None Include="TestRegex.cs" />
     <None Include="TestRegularExpressiont1.cs" />
