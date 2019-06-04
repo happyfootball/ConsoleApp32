@@ -16,6 +16,7 @@
     <Compile Remove="TestAttribute1.cs" />
     <Compile Remove="TestAttribute2.cs" />
     <Compile Remove="TestAttribute3.cs" />
+    <Compile Remove="TestAttributeDemo.cs" />
     <Compile Remove="TestClass.cs" />
     <Compile Remove="TestCollection_ArrayList.cs" />
     <Compile Remove="TestCollection_BitArray.cs" />
@@ -92,6 +93,7 @@
     <None Include="TestAttribute1.cs" />
     <None Include="TestAttribute2.cs" />
     <None Include="TestAttribute3.cs" />
+    <None Include="TestAttributeDemo.cs" />
     <None Include="TestClass.cs" />
     <None Include="TestCollection_ArrayList.cs" />
     <None Include="TestCollection_BitArray.cs" />

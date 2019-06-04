@@ -37,4 +37,9 @@ namespace ConsoleApp32
             }
         }
     }
+
+    [AttributeUsage(AttributeTargets.Assembly)]
+    public class SupportsWhatsNewAttribute : Attribute
+    {
+    }
 }
