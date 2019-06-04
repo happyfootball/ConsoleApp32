@@ -31,6 +31,7 @@
     <Compile Remove="TestDelegate2.cs" />
     <Compile Remove="TestDelegate3.cs" />
     <Compile Remove="TestDelegate4.cs" />
+    <Compile Remove="TestDelegate5.cs" />
     <Compile Remove="TestDestructor.cs" />
     <Compile Remove="TestEnum.cs" />
     <Compile Remove="TestError2.cs" />
@@ -105,6 +106,7 @@
     <None Include="TestDelegate2.cs" />
     <None Include="TestDelegate3.cs" />
     <None Include="TestDelegate4.cs" />
+    <None Include="TestDelegate5.cs" />
     <None Include="TestDestructor.cs" />
     <None Include="TestEnum.cs" />
     <None Include="TestError2.cs" />
