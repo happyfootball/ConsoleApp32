@@ -8,6 +8,7 @@
   <ItemGroup>
     <Compile Remove="Class1.cs" />
     <Compile Remove="Example1.cs" />
+    <Compile Remove="Example2.cs" />
     <Compile Remove="excutejiecheng.cs" />
     <Compile Remove="ExolicitConversion.cs" />
     <Compile Remove="NumberManipulator.cs" />
@@ -88,6 +89,7 @@
   <ItemGroup>
     <None Include="Class1.cs" />
     <None Include="Example1.cs" />
+    <None Include="Example2.cs" />
     <None Include="excutejiecheng.cs" />
     <None Include="ExolicitConversion.cs" />
     <None Include="NumberManipulator.cs" />
