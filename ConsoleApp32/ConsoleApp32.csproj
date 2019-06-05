@@ -9,10 +9,12 @@
     <Compile Remove="Class1.cs" />
     <Compile Remove="Example1.cs" />
     <Compile Remove="Example2.cs" />
+    <Compile Remove="Example3.cs" />
     <Compile Remove="excutejiecheng.cs" />
     <Compile Remove="ExolicitConversion.cs" />
     <Compile Remove="NumberManipulator.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="TCPServer.cs" />
     <Compile Remove="TestAnonymousMethods.cs" />
     <Compile Remove="TestArray.cs" />
     <Compile Remove="TestAttribute1.cs" />
@@ -90,10 +92,12 @@
     <None Include="Class1.cs" />
     <None Include="Example1.cs" />
     <None Include="Example2.cs" />
+    <None Include="Example3.cs" />
     <None Include="excutejiecheng.cs" />
     <None Include="ExolicitConversion.cs" />
     <None Include="NumberManipulator.cs" />
     <None Include="Program.cs" />
+    <None Include="TCPServer.cs" />
     <None Include="TestAnonymousMethods.cs" />
     <None Include="TestArray.cs" />
     <None Include="TestAttribute1.cs" />
