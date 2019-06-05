@@ -45,6 +45,7 @@
     <Compile Remove="TestGeneric.cs" />
     <Compile Remove="TestGeneric1.cs" />
     <Compile Remove="TestGeneric2.cs" />
+    <Compile Remove="TestGeneric3.cs" />
     <Compile Remove="TestIndexer.cs" />
     <Compile Remove="TestIndexer1.cs" />
     <Compile Remove="TestIndexer2.cs" />
@@ -52,6 +53,7 @@
     <Compile Remove="TestInterface1.cs" />
     <Compile Remove="TestInternal.cs" />
     <Compile Remove="TestIO1.cs" />
+    <Compile Remove="TestMD5.cs" />
     <Compile Remove="TestMemberFunction.cs" />
     <Compile Remove="TestNamespace.cs" />
     <Compile Remove="TestNullable.cs" />
@@ -122,6 +124,7 @@
     <None Include="TestGeneric.cs" />
     <None Include="TestGeneric1.cs" />
     <None Include="TestGeneric2.cs" />
+    <None Include="TestGeneric3.cs" />
     <None Include="TestIndexer.cs" />
     <None Include="TestIndexer1.cs" />
     <None Include="TestIndexer2.cs" />
@@ -129,6 +132,7 @@
     <None Include="TestInterface1.cs" />
     <None Include="TestInternal.cs" />
     <None Include="TestIO1.cs" />
+    <None Include="TestMD5.cs" />
     <None Include="TestMemberFunction.cs" />
     <None Include="TestNamespace.cs" />
     <None Include="TestNullable.cs" />
